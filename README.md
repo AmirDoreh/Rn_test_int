@@ -1,9 +1,5 @@
 # technical test RN
 
-Make a list of 
-
-
-## Some topics to talk about
 
 ### Run through / lifecycle
 
